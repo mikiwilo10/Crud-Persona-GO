@@ -1,0 +1,9 @@
+gorilla/mux: go get github.com/gorilla/mux
+
+
+Sirve para mantener ejecutnado el servidor, si hay algun cambio el modulo lo detecta
+de Go  
+
+CompileDaemon -command="golang-Rest-Tareas.exe"
+
+go get github.com/githubnemo/CompileDaemon
